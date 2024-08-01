@@ -2,6 +2,29 @@
 Computer Science Notes! PyTorch,TF,ETC.
 
 
+## Plans
+- Self Learnable AI
+- Generation AI (Picture,Code,Text,Other-AI) 
+  - Picture (like mid journey,stable diffusion, DALL / E) 
+  - Code
+  - Text 
+  - Other-AI (AI makes AI which makes AI (..)) <- yes. A fun project
+
+## Storage And Retrieval 
+# Knowledge Capsules
+- (insert -> to insert a specific knowledge, or to insert a empty capsule for knowledge storage & retrieval)
+- (eject -> to retrieve knowledge)
+think of it like "save" or "checkpoint"!
+
+## Cluster AI's
+- Clusters of AI's using ONE prompt!
+- prompt(s)
+  - 1 "Search the web for (...)"
+- replies: 
+  - AI_MODEL_1:  answer to 1 = (..)
+  - AI_MODEL_2:  answer to 1 = (..)
+  - AI_MODEL_3:  answer to 1 = (..)
+
 
 ## Resources
 - https://ki.se/
