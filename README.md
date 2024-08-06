@@ -1,6 +1,10 @@
 # CS-Notes
 Computer Science Notes! PyTorch,TF,ETC.
 
+# Main Idea
+![image](https://github.com/user-attachments/assets/c52ae45e-725a-40a8-abbd-ab8836354736)
+
+
 
 ## Plans
 - Self Learnable AI
