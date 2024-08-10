@@ -32,6 +32,6 @@ think of it like "save" or "checkpoint"!
 
 ## Resources
 - https://ki.se/
--
--
-- 
+
+## Acknowledgments/Contributors
+- Here I will list everyone who's been supportive, offered help(direct or indirect-ly), with anything(from datasets, to code, to research papers and testing!)
