@@ -18,6 +18,7 @@ As someone new to AI, I spent a week offline, without searching online or chatti
 ### Ethical Considerations & Thought Experiments
 
 When brainstorming, we assume ethical questions and problems are 'solved' for these thought experiments, unless stated otherwise. This approach helps avoid limitations during brainstorming. The AI(s) only operate on the user’s local system, and the user is offline when interacting with them. Any mention of "browsing history" is theoretical, addressing privacy and ethical concerns.
+
 It’s important to recognize that these are just thought experiments. For example, Einstein's thought experiment about falling in an elevator was theoretical and not intended to be physically tested. Similarly, the experiments described here are purely conceptual and are not meant to be implemented in reality.
 
 ### AI System Overview
@@ -41,7 +42,6 @@ AI_1 and AI_2 work together, with AI_1 focusing on passive observation and AI_2 
 ## Notes
 - **All interactions are simulated and confined to a local network.** Any reference to online activities or browsing is purely theoretical.
 
-
 # LEGEND
 | Greek Symbol | Name                       | Meaning and Usage                                                                                                      |
 |--------------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -54,12 +54,14 @@ AI_1 and AI_2 work together, with AI_1 focusing on passive observation and AI_2 
 
 *Note: The symbols θ₁ and θ₂ are represented using LaTeX for better readability.*
 
-
-
 ## Citations
 
 1. **Martens, W.** (2024). *Independent Exploration of AI Consciousness and Intelligence* [Personal thought experiments and creative thinking]. Unpublished manuscript.
 
 2. **OpenAI.** (2024). *ChatGPT (Version 4)* [Large language model]. Retrieved from https://www.openai.com/chatgpt
 
-3. **Murphy, K., Soliman, M., Duran-Martin, G., Kara, A., Liang Ang, M., Reddy, S., & Patel, D.** (2021). *PyProbML library for Probabilistic Machine Learning* [Computer software]. Retrieved from [https://github.com/pyprobml/pyprobml](https://github.com/pyprobml/pyprobml)
+3. **ProbML.** (n.d.). *PML book* [Computer software]. GitHub. Retrieved from https://github.com/probml/pml-book
+
+4. **ProbML.** (n.d.). *PyProbML* [Computer software]. GitHub. Retrieved from https://github.com/probml/pyprobml
+
+5. **ProbML.** (n.d.). *ProbML* [Website]. Retrieved from https://probml.github.io
