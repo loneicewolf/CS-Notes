@@ -1,4 +1,5 @@
 # CS-Notes
+# NOTE please see `README_2.md`
 Computer Science Notes! PyTorch,TF,ETC.
 
 # Main Idea
