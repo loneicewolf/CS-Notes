@@ -36,3 +36,10 @@ think of it like "save" or "checkpoint"!
 
 ## Acknowledgments/Contributors
 - Here I will list everyone who's been supportive, offered help(direct or indirect-ly), with anything(from datasets, to code, to research papers and testing!)
+
+
+---
+
+# Off Topic
+- https://www.geogebra.org/u/asukaminato <- Not mine, but I appreciate this one! 
+- 
